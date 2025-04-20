@@ -19,9 +19,9 @@ const posts: PostType[] = [
       {
         type: 'paragraph',
         content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+          'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz durante a Formação ReactJS da Rocketseat. O nome do projeto é Ignite Feed 🚀',
       },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'link', content: 'github.com/joschonarth/ignite-feed' },
     ],
     publishedAt: new Date('2025-04-19 22:15:00'),
   },
@@ -37,9 +37,9 @@ const posts: PostType[] = [
       {
         type: 'paragraph',
         content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+          'Acabei de subir mais um projeto no meu portfólio. É um projeto que fiz durante a Formação ReactJS da Rocketseat. O nome do projeto é Ignite Feed 🚀',
       },
-      { type: 'link', content: 'jane.design/doctorcare' },
+      { type: 'link', content: 'github.com/joschonarth/ignite-feed' },
     ],
     publishedAt: new Date('2025-04-20 18:05:00'),
   },
