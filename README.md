@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="./public/icon.svg" width="22" /> Ignite Feed</h1>
 
-<p align="center"><i>Projeto de feed social desenvolvido durante a Formação ReactJS da Rocketseat, utilizando React, TypeScript e Vite.</i>
+<p align="center"><i>Projeto de feed social construído com React, TypeScript e Vite.</i>
   <br/><br/>
   <img src="https://img.shields.io/github/last-commit/joschonarth/ignite-feed?style=for-the-badge&color=1F8459&labelColor=1C1E26" alt="last-commit">
   <img src="https://img.shields.io/github/languages/top/joschonarth/ignite-feed?style=for-the-badge&color=1F8459&labelColor=1C1E26" alt="top-language">
@@ -14,7 +14,7 @@
 
 ## 📖 Visão Geral
 
-Ignite Feed é uma aplicação web que simula uma rede social de posts com comentários, desenvolvida durante a trilha de ReactJS da Rocketseat. O projeto foca na construção de componentes reutilizáveis, gerenciamento de estado e boas práticas com TypeScript, ESLint e bibliotecas modernas.
+**Ignite Feed** é uma aplicação web que simula uma rede social de posts com comentários, desenvolvida durante a trilha de ReactJS da Rocketseat. O projeto foca na construção de componentes reutilizáveis, gerenciamento de estado e boas práticas com React, TypeScript e bibliotecas modernas.
 
 ## 🛠️ Tecnologias Utilizadas
 
