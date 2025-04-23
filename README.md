@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/github/languages/count/joschonarth/ignite-feed?style=for-the-badge&color=1F8459&labelColor=1C1E26" alt="languages-count">
 </p>
 
+![ignite-feed](https://github.com/user-attachments/assets/74a0a3e8-5234-45f3-b326-8f024cd9382b)
+
 ## 📖 Visão Geral
 
 **Ignite Feed** é uma aplicação web que simula uma rede social de posts com comentários, desenvolvida durante a trilha de ReactJS da Rocketseat. O projeto foca na construção de componentes reutilizáveis, gerenciamento de estado e boas práticas com React, TypeScript e bibliotecas modernas.
